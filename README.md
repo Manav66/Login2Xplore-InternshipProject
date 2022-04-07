@@ -11,6 +11,7 @@ Description
 - It is schema free so easy to maintain
 - Serverless support - Fast development - cuts time to market
 - Web services API - low development cost
+- Inbuilt support for quering Multiple Databases
 
 ## Release History
 
