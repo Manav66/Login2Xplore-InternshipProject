@@ -36,7 +36,7 @@ JsonPowerDB is a database server offering REST API services for developers. It's
 ![screencapture-api-login2explore-5577-user-jpdb-view-html-2022-04-08-00_49_24](https://user-images.githubusercontent.com/65450983/162281640-97351b3c-41ed-4b79-9d1c-42ff57e93c07.png)
 
 ## Scope of functionalities
-- Add more functions in the JDPB Common.js Script.
+- Add more functions in the JPDB Common.js Script.
 
 ## Sources
 1. https://login2explore.com/jpdb/index.html
