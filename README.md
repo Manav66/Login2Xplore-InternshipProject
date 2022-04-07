@@ -2,6 +2,14 @@
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
 
+## Table of contents
+
+1. Description
+2. Benefits of using JsonPowerDb
+3. ScreenShots
+4. Release History
+
+
 
 ## Description
 
