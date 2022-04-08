@@ -1,6 +1,6 @@
 # JsonPowerDB
 
-### Please give a star is you want to fork this repository.
+### Please give a ⭐ if you want to fork this repository.
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
 
