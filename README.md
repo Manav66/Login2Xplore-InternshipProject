@@ -1,11 +1,11 @@
-# JsonPowerDb
+# JsonPowerDB
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
 
 ## Table of contents
 
 1. Description
-2. Benefits of using JsonPowerDb
+2. Benefits of using JsonPowerDB
 3. ScreenShots
 4. Scope of functionalities
 5. Sources
